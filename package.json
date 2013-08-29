@@ -1,0 +1,10 @@
+{
+  "name": "bookmarks-api",
+  "description": "A bookmarks api made using Node.js with Express and mongodb.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "mongodb": "1.3x"
+  }
+}
