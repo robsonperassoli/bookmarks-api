@@ -22,8 +22,8 @@ A bookmark is defined by the following structure:
 Resource methods
 ================
 ```
-GET    "/bookmark/"    => Get all bookmarks
-GET    "/bookmark/:id" => Get a bookmark by id
-POST   "/bookmark/"    => Insert or save a bookmark
-DELETE "/bookmark/:id" => Delete a bookmark by id
+GET    /bookmark/    => Get all bookmarks
+GET    /bookmark/:id => Get a bookmark by id
+POST   /bookmark/    => Insert or save a bookmark
+DELETE /bookmark/:id => Delete a bookmark by id
 ```
